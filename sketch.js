@@ -2,11 +2,11 @@ let balls = [];
 
 
 function setup() {
-  createCanvas(400, 400); 
+  createCanvas(windowWidth, 200); 
   noStroke();
   background(0);
   
-  for (let i=0; i<90; i++) {
+  for (let i=0; i<100; i++) {
     let b = new Walker();
     balls.push(b);
   }
