@@ -3,7 +3,7 @@
 
 - **김승범** picxenk@gmail.com
 - https://metakits.cc
-- 저는 연필, 탐조, 커피를 좋아합니다.
+- 저는 연필, 탐조, 커피, 게임을 좋아합니다.
 
 ## 예제 코드 
 ```javascript
