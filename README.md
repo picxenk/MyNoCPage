@@ -1,5 +1,5 @@
 # MyNoCPage
-디아프 수업 연습용으로 만듭니다.
+디아프 수업 연습용으로 만듭니다. 수업은 재밌어.
 
 - **김승범** picxenk@gmail.com
 - https://metakits.cc
