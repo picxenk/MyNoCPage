@@ -6,7 +6,7 @@
 - 저는 연필, 탐조, 커피를 좋아합니다.
 
 ## 예제 코드 
-```
+```javascript
 function setup() {
   createCanvas(100, 100);
 }
